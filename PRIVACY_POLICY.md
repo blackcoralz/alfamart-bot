@@ -1,6 +1,6 @@
 # Privacy Policy for Alfamart Growtopia Bot
 
-Last Updated: August 2026
+Last Updated: September 2026
 
 Thank you for using the Alfamart Growtopia Discord Bot ("the Bot"). This Privacy Policy explains what data the Bot collects, how it is used, and how it is stored. By adding the Bot to your server or interacting with it, you agree to the collection and use of information in accordance with this policy.
 
@@ -8,7 +8,7 @@ Thank you for using the Alfamart Growtopia Discord Bot ("the Bot"). This Privacy
 
 To function properly, the Bot collects and stores the following information:
 
-*   **Discord User IDs:** Used to link your Discord account to your in-game profile, manage roles, and track your subscriptions/taxes.
+*   **Discord User IDs:** Used to link your Discord account to your in-game profile, manage roles, track your subscriptions/taxes, and prevent duplicate voting in guild polls.
 *   **Discord Server (Guild) IDs:** Used to maintain server-specific configurations and embeds.
 *   **User Roles & Nicknames:** The bot reads server roles to synchronize your Discord permissions with your in-game guild rank (Member, Elder, Co-Leader, Leader).
 *   **In-Game Names (GrowIDs):** Provided by users/managers to track guild membership, clash contributions, and subscription durations.
@@ -21,6 +21,7 @@ The data collected is used solely for the core functionality of the Bot:
 *   **Subscription Tracking:** Calculating expiration dates for guild members and sending tax reminders.
 *   **Ticket System:** Creating, logging, and saving transcripts for support tickets.
 *   **Server Utilities:** Updating live status embeds (like Potion expirations) and checking clash schedules.
+*   **Guild Polls & Voting:** Tracking user votes to prevent duplicate entries and ensure fair polling.
 
 ## 3. Data Storage and Security
 
