@@ -1,6 +1,6 @@
 # Terms of Service for Alfamart Growtopia Bot
 
-Last Updated: August 2026
+Last Updated: September 2026
 
 By inviting or using the Alfamart Growtopia Discord Bot ("the Bot") in your Discord server, you agree to these Terms of Service. If you do not agree to these terms, please do not use the Bot and remove it from your server.
 
